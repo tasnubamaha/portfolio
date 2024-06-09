@@ -1,0 +1,16 @@
+:root{
+    --background-color: #0c0418;
+    --font-primary-color: #feffff;
+    --primary-color: #ba0bf9;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    color: var(--font-primary-color);
+}
+body{
+ background-color: var(--background-color);
+}
+
