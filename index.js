@@ -84,6 +84,6 @@ function handleShowMoreProject(){
 
 
 
-    console,log("click", projectContainer);
+    console.log("click", projectContainer);
     }
 
